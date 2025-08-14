@@ -1,4 +1,4 @@
-# Hi 👋 I'm Brigidi Ackah Blay
+# Hi 👋 I'm <img src="https://readme-typing-svg.herokuapp.com/?lines=Brigidi+Ackah+Blay;Backend+Engineer;ML+Engineer;Systems+Developer&font=Fira%20Code&center=false&width=380&height=50&duration=4000&pause=1000" alt="Typing animation" />
 
 > Computer Science & Mathematics student · Passionate about backend systems, High Frequency Trading, and ML engineering.  
 > 📧 brigidiackahblay@gmail.com · 🌐 [Portfolio](https://elaborate-souffle-6bca28.netlify.app/)
@@ -6,6 +6,7 @@
 ---
 
 ## 🧑‍💻 About me
+
 I build performant systems and ML-powered tools.  
 Recent work includes a **C++ fingerprinting engine** for real-time audio search and **backend services** for fintech payments.  
 I enjoy **low-level optimization**, **scalable backend design**, and applying **ML to real-world problems**.
@@ -13,6 +14,7 @@ I enjoy **low-level optimization**, **scalable backend design**, and applying **
 ---
 
 ## 💼 Experience Highlights
+
 - **Co-Founder, Backend Engineer — TrueCreation (Audio Recognition)**  
   Engineered a **C++ fingerprinting engine** for sub-3s lookups across thousands of audio descriptors; scaled PostgreSQL schema to support large fingerprint counts.
 
@@ -25,6 +27,7 @@ I enjoy **low-level optimization**, **scalable backend design**, and applying **
 ---
 
 ## 🚀 Projects
+
 - **High-Performance ML Caching System** — C++, multithreading, ARM NEON — reduced inference latency from **180ms → 30ms**.  
 - **Multi-School AI Handbook Chatbot** — RAG, FastAPI, Claude 3.7, Snowflake — multi-tenant chatbot used by **100+ students**.
 
@@ -60,6 +63,7 @@ I enjoy **low-level optimization**, **scalable backend design**, and applying **
 ---
 
 ## 📫 Contact & Links
+
 - Email: [brigidiackahblay@gmail.com](mailto:brigidiackahblay@gmail.com)  
 - LinkedIn: [linkedin.com/in/brigidi-blay-574906274](https://linkedin.com/in/brigidi-blay-574906274)  
 - Portfolio: [elaborate-souffle-6bca28.netlify.app](https://elaborate-souffle-6bca28.netlify.app/)  
@@ -67,6 +71,7 @@ I enjoy **low-level optimization**, **scalable backend design**, and applying **
 ---
 
 ## 📊 GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaybrigidi&layout=compact&theme=radical)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=blaybrigidi&show_icons=true&theme=radical)
 
