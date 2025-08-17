@@ -4,7 +4,7 @@
 
 Computer Science & Mathematics student • Passionate about backend systems, High Frequency Trading, and ML engineering.
 
-📧 [brigidlackahblay@gmail.com](mailto:brigidlackahblay@gmail.com) • 🌐 [Portfolio](your-portfolio-link)
+📧 [brigidiackahblay@gmail.com](mailto:brigidiackahblay@gmail.com) • 🌐 [Portfolio]([your-portfolio-link](https://brigidis-portfolio.netlify.app))
 
 ## 👨‍💻 About me
 
